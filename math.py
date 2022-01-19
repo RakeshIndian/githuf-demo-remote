@@ -11,5 +11,6 @@ def multiplication(x,y):
 def division(x,y):
     if(y==0): return DIVIDE_BY_ZERO_ERROR
     else: return x/y
+#square implementation
 def square(x):
-    pass
+    return x*x
