@@ -1,6 +1,6 @@
 #Add implementation
 def addition(x,y):
-    return (x+y)
+    return x+y
 #Add implementation #on master
 def subtraction(x,y):
         return (x-y)
